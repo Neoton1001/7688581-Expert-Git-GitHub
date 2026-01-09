@@ -13,7 +13,6 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 ```
 - Git
 - VSCodium
-
 ```
 
 ### Installation
@@ -34,7 +33,7 @@ A définir : expliquer comment executer les tests
 ```
 
 
-## Deployment
+## Deploiement
 
 Voici les étapes à suivre pour déployer en production :
 
