@@ -12,7 +12,7 @@ Pour executer en local le projet Open Transport, vous devez au préalable instal
 
 ```
 - Git
-- VSCodium
+- VSCodium (ou un autre logiciel selon votre choix)
 ```
 
 ### Installation
